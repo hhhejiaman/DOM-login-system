@@ -1,14 +1,14 @@
 body {
-    background-image: url(timg.jpg);
-    background-repeat: no-repeat;
+  background-image: url(timg.jpg);
+  background-repeat: no-repeat;
 }
 
 div {
-    width: 400px;
-    height: 200px;
-    margin: 160px auto;
-    background-color: rgb(236, 214, 214);
-    text-align: center;
-    padding-top: 100px;
-    border-radius: 7px;
+  margin: 160px auto;
+  width: 400px;
+  height: 200px;
+  padding-top: 100px;
+  text-align: center;
+  border-radius: 7px;
+  background-color: rgb(236, 214, 214);
 }
